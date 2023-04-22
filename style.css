@@ -1,0 +1,22 @@
+body
+{
+    background-size: cover;
+}
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+#object
+{
+    font-size: 18px;
+    color: white;
+}
+canvas
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
