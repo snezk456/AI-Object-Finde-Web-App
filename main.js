@@ -9,7 +9,7 @@ function setup() {
     video.hide();
 }
 function draw() {
-    image(video, 0, 0, 380, 380);
+    image(video, 0, 0, 480, 380);
 }
 function start() {
     objectDetector = ml5.objectDetector('cocossd', modelLoaded);
